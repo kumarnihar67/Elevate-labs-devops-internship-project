@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: yourname/yourapp:latest
+        image: kumarnihar67/ci-cd-project:latest
         ports:
           - containerPort: 5000
 ---
@@ -29,4 +29,5 @@ spec:
   ports:
     - port: 5000
       targetPort: 5000
+
       nodePort: 30001

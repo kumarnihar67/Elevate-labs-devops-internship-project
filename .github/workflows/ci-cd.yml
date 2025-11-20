@@ -35,8 +35,8 @@ jobs:
 
       - name: Build Docker image
         run: |
-          docker build -t yourname/yourapp:latest .
+          docker build -t kumarnihar67/ci-cd-project:latest .
 
       - name: Push Docker image
         run: |
-          docker push yourname/yourapp:latest
+          docker push kumarnihar67/ci-cd-project:latest

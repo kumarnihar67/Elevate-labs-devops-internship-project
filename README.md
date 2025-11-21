@@ -96,7 +96,7 @@ Dev Setup	docker-compose 🧩
 
 
 📦 Docker Hub Image
-    https://hub.docker.com/u/kumarnihar67
+    https://hub.docker.com/r/kumarnihar67/ci-cd-project/tags
 
   <img width="1920" height="1080" alt="P1-dockerhub-image" src="https://github.com/user-attachments/assets/47767773-aab0-4bb2-a163-35bc14857691" />
 

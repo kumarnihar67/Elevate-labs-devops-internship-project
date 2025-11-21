@@ -34,16 +34,19 @@ The goal of this project is to simulate a full cloud-like CI/CD workflow entirel
                                                     │ Minikube Kubernetes │
                                                     │ (Local Deployment)  │
                                                     └────────────────────┘
+                                                    
 
-🛠 Tech Stack
-🔧 Component	🛠 Tool
+🛠 Tech Stack🔧 Component	🛠 Tool
+
 CI/CD	GitHub Actions 🤖
 Containerization	Docker 🐳
 Container Registry	Docker Hub 📦
 Local Deployment	Minikube ☸️
 Orchestration	Kubernetes ⚙️
 Dev Setup	docker-compose 🧩
+
 🏁 Getting Started
+
 1️⃣ Clone the Repository
 🐳 Docker Setup Build & Run Locally
 
@@ -93,7 +96,7 @@ Dev Setup	docker-compose 🧩
 
 
 📦 Docker Hub Image
-    https://hub.docker.com/r/kumarnihar67/ci-cd-project:tagname
+    https://hub.docker.com/u/kumarnihar67
 
   <img width="1920" height="1080" alt="P1-dockerhub-image" src="https://github.com/user-attachments/assets/47767773-aab0-4bb2-a163-35bc14857691" />
 
